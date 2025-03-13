@@ -1,4 +1,7 @@
-requirements.txt generado con pip freeze > requirements.txt
+requirements.txt generado con
+```
+pip freeze > requirements.txt
+```
 
 Instalar dependencias:
 ```
@@ -17,12 +20,13 @@ pip install odfpy --index-url=https://pypi.org/simple
 ```
 o
 ### Instalación Manual
-1. Descargar el Paquete:
+1. Descargar el paquete:
 
-[Descarga](https://pypi.org/project/odfpy/#files) el archivo odfpy-1.4.1.tar.gz.
-2. Instalar el paquete:
+[Descargar](https://pypi.org/project/odfpy/#files) el archivo odfpy-1.4.1.tar.gz
 
-Navega al directorio donde descargaste el archivo y ejecuta:
+2. Instalar:
+
+Navegar al directorio de descarga y ejecutar:
 ```
 pip install odfpy-1.4.1.tar.gz
 ```
